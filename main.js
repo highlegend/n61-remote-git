@@ -1,0 +1,1 @@
+gidocument.write("Hello, world!");
